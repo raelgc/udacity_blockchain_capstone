@@ -1,0 +1,19 @@
+{
+  "inputs": [
+    {
+      "name": "tokenId",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "solutionAddress",
+      "public": true,
+      "type": "field"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "field"
+    }
+  ]
+}
