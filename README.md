@@ -223,6 +223,28 @@ Summary
 
 ```
 
+## ABI
+
+Check [ABI.md](ABI.md) file.
+
+## Minted Tokens
+
+1. https://rinkeby.etherscan.io/tx/0x9dfcd4f74104cab71b02c2f7fe4222e7787fbf65812e5a1e39f9281d68c29c58
+2. https://rinkeby.etherscan.io/tx/0xb1d5b341e59739936bfc83b1d27f714f502bf751486a24adb5beea6447eb15c1 
+3. https://rinkeby.etherscan.io/tx/0x127388a511396b4468699b33d3368c2f475d35c2b532027c1847ea2b78878dc3
+4. https://rinkeby.etherscan.io/tx/0x61d48f9318f0fb0e769e8c2d23d7bd83d605cc37e6e862e2ee8c4e15e324e366
+5. https://rinkeby.etherscan.io/tx/0x7b14e49b24398606c82c2bfcf83fad55d685f976cfb0f55efecd821467cf3a79
+6. https://rinkeby.etherscan.io/tx/0xc94907f9adde021b71522e72f6075257ce635f44f99b7889d2599e114b50bee3
+7. https://rinkeby.etherscan.io/tx/0x5b2df313888d98c8ad34821fbe943f904f79db8784b428122095642c8639850e
+8. https://rinkeby.etherscan.io/tx/0xa4599d05b2c9ccc371e4c2869f33755b75376555c9af33498411f72037c055c6
+9. https://rinkeby.etherscan.io/tx/0x4f82a85270a0e445933a951c9fa5023511bbc2dcee8a1b1c2def6c0970ff72c3
+10. https://rinkeby.etherscan.io/tx/0x2727619736dfda59019ef9777631eb151fa5e2d70f1482316403b16de1833a38
+
+
+## OpenSea Store Front
+
+https://testnets.opensea.io/collection/rael-capstone
+
 
 # Project Resources
 
